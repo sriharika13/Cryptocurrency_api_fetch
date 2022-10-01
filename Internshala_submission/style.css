@@ -1,0 +1,32 @@
+#cryto_info{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:large;
+  border-collapse: collapse;
+  width: 100%;
+}
+#cryto_info td, #cryto_info th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+#cryto_info tbody:nth-child(even){background-color: #f2f2f2;}
+
+#cryto_info tr:hover {background-color: #ddd;}
+
+#cryto_info th {
+padding-top: 12px;
+padding-bottom: 12px;
+text-align: left;
+background-color: #04AA6D;
+color: white;
+font-size: larger;
+}
+
+h1{
+    color: #2c2a2a;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 32px;
+text-align: center;
+font-weight: bold;
+margin-top: 0px;
+margin-bottom: 6px;
+}
